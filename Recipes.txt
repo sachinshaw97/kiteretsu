@@ -3,10 +3,17 @@ Masala Curry
 ---
 Palak Paneer
 Rajma
-----
-chowmein
-phuchka
+
 ---
 Bhindi Bhujia
 kadhi Chawal
 Dahi Bada
+----
+chowmein
+phuchka
+------
+Aloo Chaat
+Alu Kabli
+Paav Bhaaji
+Muri Masal
+Churmur

@@ -3,12 +3,28 @@ Masala Curry
 ---
 Palak Paneer
 Rajma
-----
+
+---
 Bhindi Bhujia
 kadhi Chawal
 Dahi Bada
+----
+chowmein
+phuchka
+------
+Aloo Chaat
+Alu Kabli
+Paav Bhaaji
+Muri Masal
+Churmur
+---
+Fish Finger
+Chicken Roll
+------
+=======
 ---
 kabuli Chola
 Posta Paneer
 Besan Gatta
 Idli
+
